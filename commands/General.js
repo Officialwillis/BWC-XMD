@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@BlackTappy] \n\n\n*Created By Mr 🅑r̸𝐢𝖌𝖍t̸_×͜×") 
+  repondre("THANK YOU FOR CHOOSING 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@BlackTappy] \n\n\n*Created By Mr 🅑r̸𝐢𝖌𝖍t̸_×͜×") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING ,*BWC-XMD*,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })

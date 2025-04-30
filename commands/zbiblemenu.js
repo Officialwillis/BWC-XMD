@@ -132,7 +132,7 @@ let menuMsg = `
                     title: "*BWC-XMD* HOLY BIBLE LIST",
                     body: "Live with God my friends you don't know your tomorrow",
                     thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
-                    sourceUrl: "hhttps://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+                    sourceUrl: "hhttps://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }

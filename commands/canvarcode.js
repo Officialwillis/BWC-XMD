@@ -23,7 +23,7 @@ zokou({
     'externalAdReply': {
       'title': "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 My Ultra Speed Response",
       'body': "Ping Results : " + _0x451c3b,
-      'sourceUrl': "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+      'sourceUrl': "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m",
       'thumbnailUrl': "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
       'mediaType': 0x1,
       'showAdAttribution': true
@@ -61,7 +61,7 @@ zokou({
     'externalAdReply': {
       'title': "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 - System Uptime",
       'body': "Bot has been running for: " + _0x2f3abc,
-      'sourceUrl': "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+      'sourceUrl': "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m",
       'thumbnailUrl': "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
       'mediaType': 0x1,
       'showAdAttribution': true

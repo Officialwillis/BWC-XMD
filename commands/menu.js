@@ -1,1 +1,80 @@
-function _0x19c3(_0x171265,_0x28c6e2){const _0x3994f2=_0x3994();return _0x19c3=function(_0x19c313,_0x1307cc){_0x19c313=_0x19c313-0x92;let _0x373d02=_0x3994f2[_0x19c313];return _0x373d02;},_0x19c3(_0x171265,_0x28c6e2);}const _0x8b67ce=_0x19c3;function _0x3994(){const _0x579024=['2002272fyBrDW','/../set','hour','Africa/Nairobi','1262367pVraaH','\x0a╰┈┈┈┈┈╯\x0a','join','🌙😴\x20𝗚𝗼𝗼𝗱\x20𝗻𝗶𝗴𝗵𝘁!\x20𝗦𝘄𝗲𝗲𝘁\x20𝗱𝗿𝗲𝗮𝗺𝘀!\x20💫','categorie','\x0a╭┈┈┈┈┈╮\x0a│\x20\x20ʙᴡᴄ-xᴍᴅ\x20ɴᴇxᴜs\x0a├┈┈┈┈•➤\x0a│\x20🕵️\x20ᴜsᴇʀ\x20ɴᴀᴍᴇ:\x20','710326zkMCBt','\x0a│\x20📆\x20ᴅ𝗮𝘁𝗲:\x20','184695PfZsWG','MODE','\x20𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲\x20𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀','menu','/../framework/mesfonctions','sendMessage','private','☀️😎\x20𝗚𝗼𝗼𝗱\x20𝗮𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻!\x20𝗦𝘁𝗮𝘆\x20𝗲𝗻𝗲𝗿𝗴𝗶𝘇𝗲𝗱!\x20🌿','setDefault','/../framework/zokou','4wCMhjR','toLowerCase','General','\x0a│\x20⏰\x20ᴛ𝗶𝗺𝗲:\x20','map','fs-extra','🌆✨\x20𝗚𝗼𝗼𝗱\x20𝗲𝘃𝗲𝗻𝗶𝗻𝗴!\x20𝗛𝗼𝗽𝗲\x20𝘆𝗼𝘂\x20𝗵𝗮𝗱\x20𝗮\x20𝗴𝗿𝗲𝗮𝘁\x20𝗱𝗮𝘆!\x20🌙','4864bAaRxI','fromCharCode','moment-timezone','10xmufft','log','🌅☀️\x20𝗚𝗼𝗼𝗱\x20𝗺𝗼𝗿𝗻𝗶𝗻𝗴!\x20𝗛𝗼𝗽𝗲\x20𝘆𝗼𝘂\x20𝗵𝗮𝘃𝗲\x20𝗮\x20𝗳𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗰\x20𝗱𝗮𝘆!\x20🌞','9729reOlEL','audio/mpeg','HH:mm:ss','814583VTJCsk','util','https://files.catbox.moe/3zrare.mp3','170xozewm','push','4839023YDcRKo','nomCom','public','\x0a│\x20👪\x20ʙᴡᴄ\x20ᴜsᴇ𝗿s:\x20'];_0x3994=function(){return _0x579024;};return _0x3994();}(function(_0x125fd3,_0x4d45c1){const _0x5d0556=_0x19c3,_0x185f40=_0x125fd3();while(!![]){try{const _0x1ba49d=-parseInt(_0x5d0556(0x92))/0x1+-parseInt(_0x5d0556(0xbf))/0x2+parseInt(_0x5d0556(0xb9))/0x3*(parseInt(_0x5d0556(0x9c))/0x4)+-parseInt(_0x5d0556(0xa6))/0x5*(-parseInt(_0x5d0556(0xb5))/0x6)+-parseInt(_0x5d0556(0xb1))/0x7+parseInt(_0x5d0556(0xa3))/0x8*(-parseInt(_0x5d0556(0xa9))/0x9)+-parseInt(_0x5d0556(0xaf))/0xa*(-parseInt(_0x5d0556(0xac))/0xb);if(_0x1ba49d===_0x4d45c1)break;else _0x185f40['push'](_0x185f40['shift']());}catch(_0x34bdff){_0x185f40['push'](_0x185f40['shift']());}}}(_0x3994,0x6ffdf));const util=require(_0x8b67ce(0xad)),fs=require(_0x8b67ce(0xa1)),{zokou}=require(__dirname+_0x8b67ce(0x9b)),{format}=require(__dirname+_0x8b67ce(0x96)),os=require('os'),moment=require(_0x8b67ce(0xa5)),s=require(__dirname+_0x8b67ce(0xb6)),readmore=String[_0x8b67ce(0xa4)](0x200e)['repeat'](0xfa0);zokou({'nomCom':_0x8b67ce(0x95),'categorie':_0x8b67ce(0x9e)},async(_0x593f38,_0x153b4b,_0x43d096)=>{const _0x272174=_0x8b67ce;let {ms:_0x54897c,repondre:_0x27b0f3,prefixe:_0x27bba3,nomAuteurMessage:_0x3db2ae}=_0x43d096,{cm:_0x1ecba2}=require(__dirname+_0x272174(0x9b));var _0x441ecd={},_0x1dbed3=s[_0x272174(0x93)][_0x272174(0x9d)]()!=='yes'?_0x272174(0x98):_0x272174(0xb3);_0x1ecba2['map'](_0x4a2ebc=>{const _0x185caa=_0x272174;if(!_0x441ecd[_0x4a2ebc[_0x185caa(0xbd)]])_0x441ecd[_0x4a2ebc[_0x185caa(0xbd)]]=[];_0x441ecd[_0x4a2ebc[_0x185caa(0xbd)]][_0x185caa(0xb0)](_0x4a2ebc[_0x185caa(0xb2)]);}),moment['tz'][_0x272174(0x9a)](_0x272174(0xb8));const _0x493178=moment()['format'](_0x272174(0xab)),_0x4cc470=moment()['format']('DD/MM/YYYY'),_0x3bb663=moment()[_0x272174(0xb7)]();let _0x45ed97='';if(_0x3bb663>=0x5&&_0x3bb663<0xc)_0x45ed97=_0x272174(0xa8);else{if(_0x3bb663>=0xc&&_0x3bb663<0x11)_0x45ed97=_0x272174(0x99);else _0x3bb663>=0x11&&_0x3bb663<0x15?_0x45ed97=_0x272174(0xa2):_0x45ed97=_0x272174(0xbc);}let _0x5b7931='\x0a\x0a'+readmore+_0x272174(0x94);for(let _0x228323 in _0x441ecd){_0x5b7931+='\x0a\x0a*'+_0x228323+'*\x0a',_0x5b7931+=_0x441ecd[_0x228323][_0x272174(0xa0)](_0x2bd28a=>'-\x20'+_0x27bba3+_0x2bd28a)[_0x272174(0xbb)]('\x0a');}let _0x194a39='0+',_0x108a5c=_0x272174(0xbe)+_0x3db2ae+_0x272174(0xc0)+_0x4cc470+_0x272174(0x9f)+_0x493178+_0x272174(0xb4)+_0x194a39+_0x272174(0xba)+_0x45ed97+'\x0a\x0a'+_0x5b7931;const _0x5d101c='https://files.catbox.moe/a6ypcx.jpg';try{await _0x153b4b[_0x272174(0x97)](_0x593f38,{'image':{'url':_0x5d101c},'caption':_0x108a5c,'footer':'*BWC-XMD*,\x20developed\x20by\x20kingtech','contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}},{'quoted':_0x54897c});}catch(_0x317e32){console[_0x272174(0xa7)]('🥵\x20Error\x20sending\x20image:\x20'+_0x317e32),_0x27b0f3('🥵\x20Error\x20sending\x20image:\x20'+_0x317e32);}const _0x4128db=_0x272174(0xae);try{await _0x153b4b[_0x272174(0x97)](_0x593f38,{'audio':{'url':_0x4128db},'mimetype':_0x272174(0xaa),'ptt':!![]},{'quoted':_0x54897c});}catch(_0x4b8b63){console['log']('🥵\x20Error\x20sending\x20audio\x20as\x20voice\x20note:\x20'+_0x4b8b63),_0x27b0f3('🥵\x20Error\x20sending\x20audio\x20as\x20voice\x20note:\x20'+_0x4b8b63);}});
+const {
+  zokou
+} = require(__dirname + "/../framework/zokou");
+const moment = require("moment-timezone");
+const readmore = String.fromCharCode(0x200e).repeat(0xfa0);
+zokou({
+  'nomCom': "menu",
+  'categorie': "General"
+}, async (_0x593f38, _0x153b4b, _0x43d096) => {
+  let {
+    ms: _0x54897c,
+    repondre: _0x27b0f3,
+    prefixe: _0x27bba3,
+    nomAuteurMessage: _0x3db2ae
+  } = _0x43d096;
+  let {
+    cm: _0x1ecba2
+  } = require(__dirname + "/../framework/zokou");
+  var _0x441ecd = {};
+  _0x1ecba2.map(_0x4a2ebc => {
+    if (!_0x441ecd[_0x4a2ebc.categorie]) {
+      _0x441ecd[_0x4a2ebc.categorie] = [];
+    }
+    _0x441ecd[_0x4a2ebc.categorie].push(_0x4a2ebc.nomCom);
+  });
+  moment.tz.setDefault("Africa/Nairobi");
+  const _0x493178 = moment().format("HH:mm:ss");
+  const _0x4cc470 = moment().format('DD/MM/YYYY');
+  const _0x3bb663 = moment().hour();
+  let _0x45ed97 = '';
+  if (_0x3bb663 >= 0x5 && _0x3bb663 < 0xc) {
+    _0x45ed97 = "🌅☀️ 𝗚𝗼𝗼𝗱 𝗺𝗼𝗿𝗻𝗶𝗻𝗴! 𝗛𝗼𝗽𝗲 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮 𝗳𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗰 𝗱𝗮𝘆! 🌞";
+  } else {
+    if (_0x3bb663 >= 0xc && _0x3bb663 < 0x11) {
+      _0x45ed97 = "☀️😎 𝗚𝗼𝗼𝗱 𝗮𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻! 𝗦𝘁𝗮𝘆 𝗲𝗻𝗲𝗿𝗴𝗶𝘇𝗲𝗱! 🌿";
+    } else if (_0x3bb663 >= 0x11 && _0x3bb663 < 0x15) {
+      _0x45ed97 = "🌆✨ 𝗚𝗼𝗼𝗱 𝗲𝘃𝗲𝗻𝗶𝗻𝗴! 𝗛𝗼𝗽𝗲 𝘆𝗼𝘂 𝗵𝗮𝗱 𝗮 𝗴𝗿𝗲𝗮𝘁 𝗱𝗮𝘆! 🌙";
+    } else {
+      _0x45ed97 = "🌙😴 𝗚𝗼𝗼𝗱 𝗻𝗶𝗴𝗵𝘁! 𝗦𝘄𝗲𝗲𝘁 𝗱𝗿𝗲𝗮𝗺𝘀! 💫";
+    }
+  }
+  let _0x5b7931 = "\n\n" + readmore + " 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀";
+  for (let _0x228323 in _0x441ecd) {
+    _0x5b7931 += "\n\n*" + _0x228323 + "*\n";
+    _0x5b7931 += _0x441ecd[_0x228323].map(_0x2bd28a => "- " + _0x27bba3 + _0x2bd28a).join("\n");
+  }
+  let _0x108a5c = "\n╭┈┈┈┈┈╮\n│  ʙᴡᴄ-xᴍᴅ ɴᴇxᴜs\n├┈┈┈┈•➤\n│ 🕵️ ᴜsᴇʀ ɴᴀᴍᴇ: " + _0x3db2ae + "\n│ 📆 ᴅ𝗮𝘁𝗲: " + _0x4cc470 + "\n│ ⏰ ᴛ𝗶𝗺𝗲: " + _0x493178 + "\n│ 👪 ʙᴡᴄ ᴜsᴇ𝗿s: " + '0+' + "\n╰┈┈┈┈┈╯\n" + _0x45ed97 + "\n\n" + _0x5b7931;
+  try {
+    await _0x153b4b.sendMessage(_0x593f38, {
+      'gif': {
+        'url': 'https://files.catbox.moe/640han.mp4'
+      },
+      'caption': _0x108a5c,
+      'footer': "*BWC-XMD*, developed by kingtech",
+      'contextInfo': {
+        'forwardingScore': 0x3e7,
+        'isForwarded': false
+      }
+    }, {
+      'quoted': _0x54897c
+    });
+  } catch (_0x317e32) {
+    console.log("🥵 Error sending image: " + _0x317e32);
+    _0x27b0f3("🥵 Error sending image: " + _0x317e32);
+  }
+  try {
+    await _0x153b4b.sendMessage(_0x593f38, {
+      'audio': {
+        'url': "https://files.catbox.moe/3zrare.mp3"
+      },
+      'mimetype': "audio/mpeg",
+      'ptt': false
+    }, {
+      'quoted': _0x54897c
+    });
+  } catch (_0x4b8b63) {
+    console.log("🥵 Error sending audio as voice note: " + _0x4b8b63);
+    _0x27b0f3("🥵 Error sending audio as voice note: " + _0x4b8b63);
+  }
+});

@@ -50,7 +50,7 @@ BWC-XMD is a powerful Multi-Device WhatsApp bot developed by **KEPHAKINGS**. It 
 
 ### 🌍 **BWC-XMD SUPPORT**
 
-<a href="https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10">
+<a href="https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m">
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 

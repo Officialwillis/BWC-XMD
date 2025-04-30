@@ -28,7 +28,7 @@ zokou({ nomCom: "videostyle", categorie: "search", reaction: "✋" }, async (des
         title: "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃",
         body: "Regards, Ⴊl𐌀Ꮳk 𐌕𐌀ႲႲჄ",
         thumbnailUrl: "https://files.catbox.moe/kjt43f.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+        sourceUrl: "https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m",
         mediaType: 1,
         renderLargerThumbnail: true,
       },

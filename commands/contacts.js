@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m`) 
 
    
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m`) 
 
    
 
@@ -189,7 +189,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join boniphace group  https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10`) 
+                 await repondre(`top a link to join boniphace group  https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m`) 
 
    
 
@@ -277,7 +277,7 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZ8Q0Y1XquZ673Uvs0m
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://wa.me/c/254759000340 👈
