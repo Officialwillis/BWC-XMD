@@ -47,7 +47,7 @@ zokou({
   let _0x108a5c = "\n╭┈┈┈┈┈╮\n│  𝗧𝗥𝗔𝗖𝗘-𝗫𝗠𝗗\n├┈┈┈┈•➤\n│ 🕵️ ᴜsᴇʀ ɴᴀᴍᴇ: " + _0x3db2ae + "\n│ 📆 ᴅ𝗮𝘁𝗲: " + _0x4cc470 + "\n│ ⏰ ᴛ𝗶𝗺𝗲: " + _0x493178 + "\n│ 👪 ʙᴡᴄ ᴜsᴇ𝗿s: " + '999+' + "\n╰┈┈┈┈┈╯\n" + _0x45ed97 + "\n\n" + _0x5b7931;
   try {
     await _0x153b4b.sendMessage(_0x593f38, {
-      'gif': {
+      'video': {
         'url': 'https://files.catbox.moe/640han.mp4'
       },
       'caption': _0x108a5c,
