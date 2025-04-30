@@ -57,7 +57,7 @@ zokou({
         'isForwarded': false
       }
     }, {
-      'quoted': _0x3db2ae
+      'quoted': _0x54897c
     });
   } catch (_0x317e32) {
     console.log("🥵 Error sending image: " + _0x317e32);
@@ -71,7 +71,7 @@ zokou({
       'mimetype': "audio/mpeg",
       'ptt': true
     }, {
-      'quoted': _0x3db2ae
+      'quoted': _0x54897c
     });
   } catch (_0x4b8b63) {
     console.log("🥵 Error sending audio as voice note: " + _0x4b8b63);
