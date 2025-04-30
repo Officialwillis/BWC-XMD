@@ -57,7 +57,7 @@ zokou({
         'isForwarded': false
       }
     }, {
-      'quoted': _0x54897c
+      'quoted': _0x3db2ae
     });
   } catch (_0x317e32) {
     console.log("🥵 Error sending image: " + _0x317e32);
@@ -69,9 +69,9 @@ zokou({
         'url': "https://files.catbox.moe/3zrare.mp3"
       },
       'mimetype': "audio/mpeg",
-      'ptt': false
+      'ptt': true
     }, {
-      'quoted': _0x54897c
+      'quoted': _0x3db2ae
     });
   } catch (_0x4b8b63) {
     console.log("🥵 Error sending audio as voice note: " + _0x4b8b63);
